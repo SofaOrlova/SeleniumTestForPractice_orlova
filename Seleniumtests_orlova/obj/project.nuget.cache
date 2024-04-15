@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "maeWuYZ6tmIs8z+Fr15MA4WDWpVU7lDy7srgAulJdl5qnYPPpHv7NXfe3huEmqkpwri1VRNrTlmXsglzGMcGhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Irbizz'\\RiderProjects\\Seleniumtests_orlova\\Seleniumtests_orlova\\Seleniumtests_orlova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\microsoft.codecoverage\\17.10.0-release-24177-07\\microsoft.codecoverage.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0-release-24177-07\\microsoft.net.test.sdk.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0-release-24177-07\\microsoft.testplatform.objectmodel.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0-release-24177-07\\microsoft.testplatform.testhost.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\selenium.webdriver\\4.19.0\\selenium.webdriver.4.19.0.nupkg.sha512",
+    "C:\\Users\\Irbizz'\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
